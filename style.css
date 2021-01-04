@@ -2,16 +2,18 @@ body{
     font-family: 'Asap', sans-serif;
 }
 h1{
-    font-size: 8vmin;
+    font-size: 50px;
     font-weight: 500;
-}
-h3{
-    font-size: 3vmin;
-}
-p{
-    width: 40%;
-    font-size: 2.5vmin;
 }
 .name-highlight{
     color: orange;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
 }
